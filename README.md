@@ -1,3 +1,3 @@
-# Computational-Phylogenetics-to-Assay-whether-Gut-Bacteria-RNA-Indicates-
+# Computational-Phylogenetics-on-Gut-Bacteria
 Analysis of Lacticaseibacillus rhamnosus 16S RNA amongst species.
 
